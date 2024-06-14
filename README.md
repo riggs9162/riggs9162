@@ -10,7 +10,7 @@ I'm a passionate and dedicated gLua developer with a lot of experience regarding
 - [impulse Framework Plugins](https://github.com/riggs9162/RiggsImpulsePlugins) - A small collection of plugins for the impulse Framework.
 - [impulse Framework Schemas](https://github.com/riggs9162/RiggsImpulseSchemas) - A small collection of schemas for the impulse Framework.
 
-## My Skills
+## My Skills and Experience
 - **Source Engine Knowledge** - I have a lot of experience regarding the Source Engine and how it works.
 - **Map Creation** - My main hobby is map creation, before I started learning Lua I was mainly a mapper.
 - **Garry's Mod** - I have a lot of experience with Garry's Mod and I know how to make a lot of things in it.
@@ -23,7 +23,12 @@ I'm a passionate and dedicated gLua developer with a lot of experience regarding
 - **Steam** - [riggs9162](https://steamcommunity.com/id/riggs9162/)
 - **Minerva Servers** - [Discord](https://minerva-servers.com/discord)
 
-## Stats
+## Support Me
+If you like my work and want to support me you can do so by donating to me via PayPal.
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/minervaservers)
+
+## Stats and Trophies
 ![Profile Views](https://komarev.com/ghpvc/?username=riggs9162&color=blue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riggs9162&layout=compact&theme=dark)
