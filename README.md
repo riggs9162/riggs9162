@@ -1,34 +1,45 @@
 # Hi there 👋
-I'm a passionate and dedicated gLua developer with a lot of experience regarding the quirks of the Source Engine, along that I have a lot of experience regarding map creations and server management. I'm currently working on a project called [Minerva Servers](https://minerva-servers.com/discord) which is my own personal Garry's Mod community that I've been working on for the past 3 years.
+
+I'm Riggs, a passionate creator and developer focused on Garry's Mod and the Source Engine. I love building servers and frameworks that bring joy to players, and I've been programming and mapping since 2018.
+
+## About Me
+
+- **Hobby:** Programming & mapping in the Source Engine (especially Garry's Mod)
+- **Main Language:** Lua  
+- **Other Skills:** Bits of Python, HTML, CSS
+- I enjoy creating custom servers, scripting gamemodes, and designing maps.
+
+## Highlights
+
+- **Project Ordinance:** My current main project, focused on innovative Garry's Mod experiences.
+- **Parallax:** My custom Garry's Mod framework.
+- **Minerva Servers:** My previous community highlight (now archived).
+- Started my development and mapping experience in 2018.
 
 ## My Projects
-- [Minerva Servers](https://minerva-servers.com/discord) - My own personal Garry's Mod community that I've been working on for the past 3 years.
-- [Garry's Strike](https://github.com/riggs9162/counterstrike) - A Counter-Strike gamemode for Garry's Mod that I started back in new years of 2024. I haven't worked on it in a while but I'm planning on picking it back up soon.
-- [Lambda Wars Enhancement](https://github.com/riggs9162/lambdawars-enhancement) - A mod for Lambda Wars that adds new units, buildings, and more to the game.
-- [Dynamic Flashlight System](https://github.com/riggs9162/dynamic-flashlight-system) - A addon for Garry's Mod that adds a dynamic flashlight system to the game.
-- [Helix Framework Plugins](https://github.com/riggs9162/RiggsHelixPlugins) - A collection of plugins for the Helix Framework that I've made over the years, this is where I mainly started actually learning Lua. I've improved the code quality a lot since then.
-- [impulse Framework Plugins](https://github.com/riggs9162/RiggsImpulsePlugins) - A small collection of plugins for the impulse Framework.
-- [impulse Framework Schemas](https://github.com/riggs9162/RiggsImpulseSchemas) - A small collection of schemas for the impulse Framework.
 
-## My Skills and Experience
-- **Source Engine Knowledge** - I have a lot of experience regarding the Source Engine and how it works.
-- **Map Creation** - My main hobby is map creation, before I started learning Lua I was mainly a mapper.
-- **Garry's Mod** - I have a lot of experience with Garry's Mod and I know how to make a lot of things in it.
-- **Lua** - Growing up while playing Garry's Mod I've always been interested in the creation of addons and gamemodes for the game, this is where I started learning Lua.
-- **Server Management** - Due to running my own community for the past 3 years (and also some other communities before that) I have a lot of experience with server management.
+- [Parallax](https://github.com/Parallax-Framework) — Custom Garry's Mod framework
+- [Project Ordinance](https://project-ordinance.com) — Main community project for Garry's Mod
+- [Minerva Servers](https://minerva-servers.com) — Previous community project for Garry's Mod
+- [Helix Framework Plugins](https://github.com/riggs9162/RiggsHelixPlugins) — Plugins for Helix Framework
+- [impulse Framework Plugins](https://github.com/riggs9162/RiggsImpulsePlugins) — Plugins for impulse Framework
+- [impulse Framework Schemas](https://github.com/riggs9162/RiggsImpulseSchemas) — Schemas for impulse Framework
 
-## Contact Me
-- **Discord** - `riggs9162`
-- **Email** - `riggs9162@gmx.de`
-- **Steam** - [riggs9162](https://steamcommunity.com/id/riggs9162/)
-- **Minerva Servers** - [Discord](https://minerva-servers.com/discord)
+## Socials
+
+- **YouTube:** [@riggs9162](https://youtube.com/@riggs9162?si=ysVUDtRuADUU-ydr)
+- **Steam:** [riggs9162](https://steamcommunity.com/id/riggs9162/)
+- **Discord:** `riggs9162`
+- **Email:** `riggs9162@gmx.de`
 
 ## Support Me
-If you like my work and want to support me you can do so by donating to me via PayPal.
+
+If you appreciate my work, consider supporting me via PayPal:
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/minervaservers)
 
-## Stats and Trophies
+## Stats & Trophies
+
 ![Profile Views](https://komarev.com/ghpvc/?username=riggs9162&color=blue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riggs9162&layout=compact&theme=dark)
