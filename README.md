@@ -4,32 +4,24 @@
 
 ## About Me
 
-I'm a developer and creator focused on building **immersive experiences** in Garry’s Mod and the Source Engine. My work merges the technical with the creative: I design **custom Lua frameworks and gamemodes** while crafting atmospheric worlds, cinematic systems, and narrative structure. I care about **modularity, performance, and clean architecture**, but never at the expense of player experience. From backend systems and tooling to in-game events and world design, the goal is simple: use code to **make stories playable**.
+I'm a developer and creator focused on building immersive experiences in Garry’s Mod and the Source Engine. My work merges the technical with the creative: I design custom Lua frameworks and systems while experimenting with atmosphere, tooling, and modular architecture.
+
+Right now, I'm stepping back from large-scale server projects and refocusing on smaller, sustainable development work. Less community management, more building.
 
 ---
 
 ## Featured Projects
 
-### Minerva Servers – Season 3
-A **story-driven Half-Life 2 roleplay** project that blends cinematic sessions with community-driven operations, built on my custom framework stack. Focus areas: realism, player agency, and long-form worldbuilding.
-  
-[![Website](https://img.shields.io/badge/Website-minerva--servers.com-7c3aed?style=flat)](https://minerva-servers.com)
-[![Wiki](https://img.shields.io/badge/Wiki-wiki.minerva--servers.com-7c3aed?style=flat)](https://wiki.minerva-servers.com)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.minerva-servers.com)
+### Lambda Wars
+
+A community-driven real-time strategy gamemode for Garry's Mod, bringing large-scale RTS gameplay into the Half-Life 2 universe. Players command the Resistance or Combine, build bases, manage resources, and control units in synchronized multiplayer battles. Focuses on translating classic RTS mechanics like faction asymmetry, territory control, and structured matches into the sandbox environment.
+
+[![Website](https://img.shields.io/badge/Website-gmod--lambda--wars.com-7c3aed?style=flat)](https://gmod-lambda-wars.com)
 
 ---
 
-### Project Ordinance
-A **Black Mesa–inspired roleplay world** emphasizing scientific and industrial realism. Ordinance extends the Source sandbox with tightly integrated systems, environmental storytelling, and a cohesive facility-scale setting.
-  
-[![Website](https://img.shields.io/badge/Website-project--ordinance.com-7c3aed?style=flat)](https://project-ordinance.com)
-[![Wiki](https://img.shields.io/badge/Wiki-wiki.project--ordinance.com-7c3aed?style=flat)](https://wiki.project-ordinance.com)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.project-ordinance.com)
-
----
-
-### Parallax Framework
-A **modular Lua framework** for Garry’s Mod designed for cinematic, story-driven gameplay. Parallax provides systems for events, AI, world interaction, data, and presentation. It’s the backbone behind my current projects and a platform for rapid, maintainable development.
+### Parallax Framework (On Hold)
+A modular Lua framework for Garry’s Mod designed for structured and cinematic gameplay systems. Development is currently paused while priorities shift away from large-scale GMod roleplay projects.
   
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/yekEvSszW3)
 
@@ -37,13 +29,31 @@ A **modular Lua framework** for Garry’s Mod designed for cinematic, story-driv
 
 ---
 
+### Source 2 Porting Kit (On Hold)
+
+A workflow-focused toolkit for converting Source 2 assets into Source 1 for use in Garry’s Mod. Designed to handle models, materials, and textures while reducing manual cleanup and compatibility issues. Development is currently paused as priorities shift away from large-scale pipeline work.
+
+[![Source 2 Porting Kit](https://github-readme-stats.vercel.app/api/pin/?username=riggs9162&repo=Source-2-Porting-Kit&theme=midnight-purple&hide_border=true&cache_seconds=86400)](https://github.com/riggs9162/Source-2-Porting-Kit)
+
+---
+
+### Minerva Servers (Cancelled)
+Previously a story-driven Half-Life 2 roleplay project focused on cinematic sessions and long-form worldbuilding. Development and operations have been discontinued.
+
+---
+
+### Project Ordinance (Cancelled)
+A Black Mesa–inspired roleplay project centered around scientific and industrial environments. The project is no longer in active development.
+
+---
+
 ## Stack & Focus
 
-- **Languages:** Lua/GLua, Python (tooling, PySide6 GUI), a bit of JS for glue
+- **Languages:** Lua/GLua, Python (tooling, PySide6 GUI), some JavaScript
 - **Source Engine:** mapping, entities, materials, optimization pipelines
-- **Systems:** modular architecture, data flow, event/cinematic systems, AI interactions
-- **Art Pipeline:** Blender modeling, Substance Painter texturing, import/compile/tooling
-- **Ops & Tooling:** build scripts, content pipelines, repo hygiene, performance profiling
+- **Systems:** modular architecture, data flow, event systems, tooling
+- **Art Pipeline:** Blender modeling, Substance Painter texturing, import workflows
+- **Ops & Tooling:** build scripts, automation, repo structure, performance work
 
 ---
 
@@ -74,4 +84,4 @@ A **modular Lua framework** for Garry’s Mod designed for cinematic, story-driv
 - **Steam:** https://steamcommunity.com/id/riggs9162  
 - **YouTube:** https://www.youtube.com/@riggs9162  
 
-> *“Build systems that carry stories, and stories that justify the systems.”*
+> *“Create projects that don't burn you out halfway through.”*
