@@ -1,87 +1,55 @@
-# Riggs
+# Hi, I'm Riggs
 
-*Lua framework developer • Immersive worldbuilder • Automation enthusiast*
+I make things for Garry's Mod and the Source Engine: frameworks, maps, interfaces, and tools for the work in between. I'm based in Germany, and I've been playing Garry's Mod since 2012.
 
-## About Me
+Most of my time goes into **Project: Resilience** and **Marauth**. When I run into a repetitive workflow, I usually end up building a tool for it.
 
-I'm a developer and creator focused on building immersive experiences in Garry’s Mod and the Source Engine. My work merges the technical with the creative: I design custom Lua frameworks and systems while experimenting with atmosphere, tooling, and modular architecture.
+[Explore my portfolio](https://riggs9162.github.io/portfolio/) · [Steam](https://steamcommunity.com/id/riggs9162/) · [YouTube](https://www.youtube.com/@riggs9162)
 
-Right now, I'm stepping back from large-scale server projects and refocusing on smaller, sustainable development work. Less community management, more building.
+## My main focus
 
----
+### Project: Resilience
 
-## Featured Projects
+The Half-Life 2 roleplay world I'm building on Marauth. I want to recreate the experience of Project: Synapse, then take it in my own direction. Atmosphere matters to me, but so do the gameplay systems underneath it, especially the resistance experience and balancing.
 
-### Lambda Wars
+### Marauth
 
-A community-driven real-time strategy gamemode for Garry's Mod, bringing large-scale RTS gameplay into the Half-Life 2 universe. Players command the Resistance or Combine, build bases, manage resources, and control units in synchronized multiplayer battles. Focuses on translating classic RTS mechanics like faction asymmetry, territory control, and structured matches into the sandbox environment.
+The framework behind Resilience. This is where I work on characters, inventories, networking, progression, crafting, and the interfaces that bring those systems together. Its source is private, but the project and documentation are public.
 
-[![Website](https://img.shields.io/badge/Website-gmod--lambda--wars.com-7c3aed?style=flat)](https://gmod-lambda-wars.com)
+[Project website](https://project-marauth.com) · [Documentation](https://wiki.project-marauth.com)
 
----
+## More of my work
 
-### Parallax Framework (On Hold)
-A modular Lua framework for Garry’s Mod designed for structured and cinematic gameplay systems. Development is currently paused while priorities shift away from large-scale GMod roleplay projects.
-  
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/yekEvSszW3)
+- **[Source 2 Porting Kit](https://github.com/riggs9162/Source-2-Porting-Kit)**: model, material, texture, and audio tools for moving Source 2 assets into Source 1. The repository includes a released PySide6 generation and a Flet rebuild in development.
+- **[Parallax](https://github.com/Parallax-Framework/parallax)**: a modular roleplay framework I've worked on with bloodycop6385, separating shared systems from game-specific schemas.
+- **[Lambda Wars](https://gmod-lambda-wars.com)**: a community-driven Garry's Mod RTS project bringing Half-Life 2 factions, base building, resources, and unit battles into the sandbox.
+- **[HL2 RTX Asset Browser](https://github.com/riggs9162/hl2rtx-asset-browser)**: local asset browsing, previews, and exports without converting everything up front.
+- **[Combine Logo Studio](https://github.com/riggs9162/combine-logo-studio)**: an editor for Half-Life 2 city emblems, with PNG and SVG exports.
+- **[Riggs Helix Plugins](https://github.com/riggs9162/RiggsHelixPlugins)**: my plugin collection, including work on menus, character creation, inventories, and settings.
 
-[![Parallax](https://github-readme-stats.vercel.app/api/pin/?username=Parallax-Framework&repo=parallax&theme=midnight-purple&hide_border=true&cache_seconds=86400)](https://github.com/Parallax-Framework/parallax)
+## Back in Hammer
 
----
+I also edit and extend maps. **City 17 Futuristic** adds coastal areas, caves, buildings, routes, and different lighting and seasonal settings to Urfim's original map. **GM_City17_Aftermath** reworks Alien31's base map into a later, damaged City 17. My Workshop pages include the original-map, asset, and collaboration credits.
 
-### Source 2 Porting Kit (On Hold)
+Alongside the maps, I make tools for generating a starting pass of [AI nodes](https://github.com/riggs9162/navmesh_node_mapper), [environmental clutter](https://github.com/riggs9162/navmesh_junk_mapper), and [player spawns](https://github.com/riggs9162/navmesh_spawn_mapper) from navmeshes.
 
-A workflow-focused toolkit for converting Source 2 assets into Source 1 for use in Garry’s Mod. Designed to handle models, materials, and textures while reducing manual cleanup and compatibility issues. Development is currently paused as priorities shift away from large-scale pipeline work.
+[Browse my map work](https://steamcommunity.com/id/riggs9162/myworkshopfiles?browsefilter=myfiles&sortmethod=creationorder&section=items&appid=4000&requiredtags%5B0%5D=-1&requiredtags%5B1%5D=Map&p=1&numperpage=30)
 
-[![Source 2 Porting Kit](https://github-readme-stats.vercel.app/api/pin/?username=riggs9162&repo=Source-2-Porting-Kit&theme=midnight-purple&hide_border=true&cache_seconds=86400)](https://github.com/riggs9162/Source-2-Porting-Kit)
+## Behind the scenes
 
----
+Some projects live in private repositories:
 
-### Minerva Servers (Cancelled)
-Previously a story-driven Half-Life 2 roleplay project focused on cinematic sessions and long-form worldbuilding. Development and operations have been discontinued.
+- **Resilience Platform** connects the web panel, Discord gateway, background jobs, and Garry's Mod server.
+- **Helix Plugin Center** collects public Helix plugins into a searchable catalog with installation information and optional community features.
 
----
+You can read more about both on [my portfolio](https://riggs9162.github.io/portfolio/).
 
-### Project Ordinance (Cancelled)
-A Black Mesa–inspired roleplay project centered around scientific and industrial environments. The project is no longer in active development.
+## What I work with
 
----
+- **Systems:** Lua / GLua, modular architecture, networking, and data persistence.
+- **Tools and web:** Python, PySide6, Flet, TypeScript, Next.js, Prisma, and MySQL.
+- **Maps and assets:** Hammer, Source Engine, Blender, Substance Painter, models, materials, and conversion pipelines.
 
-## Stack & Focus
+When I'm not building something, I'm usually playing an FPS, a horror game, or co-op with friends.
 
-- **Languages:** Lua/GLua, Python (tooling, PySide6 GUI), some JavaScript
-- **Source Engine:** mapping, entities, materials, optimization pipelines
-- **Systems:** modular architecture, data flow, event systems, tooling
-- **Art Pipeline:** Blender modeling, Substance Painter texturing, import workflows
-- **Ops & Tooling:** build scripts, automation, repo structure, performance work
-
----
-
-<details>
-<summary><b>GitHub Activity</b></summary>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riggs9162&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=riggs9162&theme=dracula&hide_border=true" alt="GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riggs9162&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=riggs9162&theme=dracula&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/riggs9162?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&config.timezone=Europe%2FBerlin&plugin=isocalendar&plugin.isocalendar.duration=full-year" alt="Contribution Heatmap" width="98%" />
-</p>
-
-</details>
-
----
-
-## Elsewhere
-
-- **Steam:** https://steamcommunity.com/id/riggs9162  
-- **YouTube:** https://www.youtube.com/@riggs9162  
-
-> *“Create projects that don't burn you out halfway through.”*
+For questions about my work, you can find me on Discord as **riggs9162**.
